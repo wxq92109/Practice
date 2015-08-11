@@ -118,3 +118,4 @@ void destroyLinkList(LinkList *list) {
     }
     *list = NULL;
 }
+
